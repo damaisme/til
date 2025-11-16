@@ -1,9 +1,9 @@
 ---
 title: "Devover Meetup"
 date: 2025-11-16T12:49:26+07:00
-draft: true
+draft: false
 tags:
-    - Language
+    - Journal
 
 # Author
 language: id
