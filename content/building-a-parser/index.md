@@ -1,9 +1,10 @@
 ---
 title: "Building a Parser"
 date: 2025-11-21T15:20:03+07:00
-draft: true
+draft: false
 tags:
-    - Language
+    - Tech
+    - Rust
 
 # Author
 language: en
