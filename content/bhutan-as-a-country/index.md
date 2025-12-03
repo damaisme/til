@@ -3,7 +3,8 @@ title: "Bhutan as a Country"
 date: 2025-12-03T20:55:19+07:00
 draft: false
 tags:
-    - Politics
+    - Geography
+    - Travel
 
 # Author
 language: en
