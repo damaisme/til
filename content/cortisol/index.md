@@ -6,8 +6,7 @@ tags:
     - Health
     - Biology
 
-# Author
-language: id
+language: en
 ---
 
 Cortisol is glucocorticoids. 
