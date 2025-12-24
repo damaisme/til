@@ -1,6 +1,6 @@
 ---
 title: "Surrounded by Idiots"
-date: 2025-12-18T16:32:30+07:00
+date: 2025-12-24T16:32:30+07:00
 draft: false
 tags:
     - Psychology
