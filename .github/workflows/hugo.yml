@@ -29,7 +29,10 @@ jobs:
           go-version: "1.22"
 
       - name: Install Dart Sass
-        run: sudo apt-get install -y dart-sass
+        run: |
+          curl -L -o dart-sass.tar.gz https://github.com/sass/dart-sass/releases/latest/download/dart-sass-linux-x64.tar.gz
+          tar -xzf dart-sass.tar.gz
+          sudo mv dart-sass /usr/local/bin/
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
