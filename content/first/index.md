@@ -1,7 +1,7 @@
 ---
 title: "Pertama"
 date: 2026-01-03T01:07:57+07:00
-draft: true
+draft: false
 tags:
     - Journal
 
