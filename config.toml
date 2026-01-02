@@ -1,6 +1,6 @@
-baseURL = "https://til.saugi.me/"
+baseURL = "https://til.damasukma.com/"
 languageCode = "en-us"
-title = "Today I Learned - Saugi"
+title = "Today I Learned - Dama"
 theme = "upgan"
 
 summaryLength = 17
@@ -20,18 +20,18 @@ canonifyURLs = true
 
 [module]
   [[module.imports]]
-    path = "upgan"
+    path = "github.com/zuramai/upgan"
 
 [taxonomies]
   tag = "tags"
   category = "categories"
 
 [params]
-  description = "Ahmad Saugi's blog and daily writing about thoughts, tutorial, and a bit of theories. Saugi's blog may help you to open your mind up."
-  author = "Ahmad Saugi"
-  faviconURL = "/favicon.svg"
-  og_image = "/images/author/saugi.jpg"
-  sitename = "Today I Learned - Saugi"
+  description = "Dama's blog and daily writing about thoughts, tutorial, and a bit of theories. Saugi's blog may help you to open your mind up."
+  author = "Dama"
+  faviconURL = "/favicon.ico"
+  og_image = "/images/author/Dama.jpg"
+  sitename = "Today I Learned - Dama"
   home_show_tags = true
 
 [languages]
@@ -52,7 +52,7 @@ canonifyURLs = true
     weight = 1
   [[menu.main]]
     name = "Main Site"
-    url = "https://saugi.me"
+    url = "https://damasukma.com"
     weight = 2
 
 [markup]
@@ -74,4 +74,4 @@ canonifyURLs = true
 
 [services]
   [services.disqus]
-    shortname = "blog-saugi"
+    shortname = "blog-Dama"

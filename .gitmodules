@@ -2,3 +2,6 @@
 	path = themes/upgan
 	branch = main
 	url = https://github.com/zuramai/upgan
+[submodule "hugoblog"]
+	path = hugoblog
+	url = https://github.com/zuramai/hugoblog
