@@ -6,7 +6,7 @@ tags:
     - Journal
 
 # Author
-language: en
+language: id
 ---
 Scroll fesnuk bukan lah kegiatan yang sia-sia -- dengan memilah network sosial media, lu bisa dapet inspirasi, pengetauan, atau hal bermanfaat lain -- ini gua sebut sebagai selective and productive scrolling wkwk. Dari scrolling itu pula, gerakan dan blog ini terbentuk. Post dari [Ahmad Saugi](https://saugi.me/) yang membahas TIL ini muncul di beranda gua.
 
